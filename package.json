@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/nlewis742/note_taker_app#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "clog": "^0.1.6",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   }
 }
