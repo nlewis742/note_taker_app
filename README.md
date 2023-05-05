@@ -6,11 +6,11 @@ An application to write and save notes. This application uses an express backend
 
 ### Home Page
 
-![Home Page](./public/assets/images/homepage.png)
+![Home Page](./public/assets/images/notetakerhomepage.PNG)
 
 ### Notes Page
 
-![Notes Page](./public/assets/images/notespage.png)
+![Notes Page](./public/assets/images/notetakernotes.PNG)
 
 ## Installation
 
@@ -27,4 +27,5 @@ node server.js
 
 ## Deployed Application
 
-https://pure-castle-08447.herokuapp.com/
+[Note Taker App](https://pure-castle-08447.herokuapp.com/)
+
